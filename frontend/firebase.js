@@ -8,7 +8,7 @@ import {
 
 // 🔥 Tumhara Firebase Config (already correct)
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: "AIzaSyARAfE0MPy6SIY7OmwcYep525teFCVJy6c",
   authDomain: "quickbites-app-23ae9.firebaseapp.com",
   projectId: "quickbites-app-23ae9",
   storageBucket: "quickbites-app-23ae9.appspot.com",
